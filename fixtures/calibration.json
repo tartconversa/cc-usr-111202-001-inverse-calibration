@@ -1,0 +1,33 @@
+{
+  "time_unit": "seconds",
+  "gain_anchor": {
+    "s1": 1
+  },
+  "positive_parameters": [
+    "gain",
+    "amplitude",
+    "rate"
+  ],
+  "offset_bounds": [
+    -10,
+    10
+  ],
+  "rate_bounds": [
+    0.001,
+    3
+  ],
+  "profile_rate_grid": [
+    0.05,
+    0.1,
+    0.25,
+    0.5,
+    0.7,
+    1,
+    1.5,
+    2.5
+  ],
+  "likelihood_ratio_threshold": 3.841459,
+  "starts": 8,
+  "seed": 1120201,
+  "rank_relative_tolerance": 1e-08
+}

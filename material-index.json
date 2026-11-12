@@ -1,0 +1,22 @@
+[
+  {
+    "path": "fixtures/calibration.json",
+    "sha256": "024f6024b3e33e02dfe8d35222cec56eeff7c0f94f575f62092b9e1cf273df43",
+    "size_bytes": 433
+  },
+  {
+    "path": "fixtures/hand-check.json",
+    "sha256": "cc58af3f48da7a4dc01dc4565e96597abe5e60c819a38b5fe349ccaf569f2603",
+    "size_bytes": 112
+  },
+  {
+    "path": "fixtures/observations.csv",
+    "sha256": "9708e159a5c4c29ba61e971de33142a107f7f151976aaf674c796cac81a05803",
+    "size_bytes": 213
+  },
+  {
+    "path": "fixtures/weak.csv",
+    "sha256": "4017fc0a26a0b98561f322181c8063e6ba5d3b8734a3c35424b0b62ad0b42ce5",
+    "size_bytes": 140
+  }
+]

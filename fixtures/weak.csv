@@ -1,0 +1,6 @@
+experiment,sensor,time_seconds,value,stddev
+flat,s1,0,2,0.1
+flat,s1,1,2.001,0.1
+flat,s1,2,1.999,0.1
+isolated,s3,0,4,0.1
+isolated,s3,0,4,0.1

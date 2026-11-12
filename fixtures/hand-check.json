@@ -1,0 +1,10 @@
+{
+  "fixed_offsets": {
+    "s1": 0,
+    "s2": 0
+  },
+  "gain_anchor": {
+    "s1": 1
+  },
+  "experiment": "e1"
+}
